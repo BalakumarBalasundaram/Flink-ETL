@@ -11,4 +11,8 @@ http://robertmetzger.de/incubator-flink-website/docs/0.6-SNAPSHOT/cluster_execut
 
 https://github.com/kalkolab/toptal-jogging
 
+#Guice
+https://github.com/wertzber/CodeSamples/tree/92be6e2d2500f902c4a1131c139feb61a7cf4e2c
+
+
 
