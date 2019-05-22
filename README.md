@@ -14,6 +14,8 @@ https://github.com/kalkolab/toptal-jogging
 
 http://zetcode.com/db/jdbi/
 
+https://github.com/ahus1/jdbi-by-example
+
 #Guice
 
 https://github.com/wertzber/CodeSamples/tree/92be6e2d2500f902c4a1131c139feb61a7cf4e2c
